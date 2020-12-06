@@ -8,7 +8,7 @@ int main(void)
 {
 	int A, B, Result;
 
-	printf("Á¤¼ö µÎ °³¸¦ ÀÔ·ÂÇÏ½Ã¿À. : ");
+	printf("ë‘ ê°œì˜ ì •ìˆ˜ë¥¼ ì…ë ¥í•˜ì‹œì˜¤. : ");
 	scanf_s("%d %d", &A, &B);
 
 	Result = sub(A, B);
